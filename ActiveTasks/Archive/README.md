@@ -1,0 +1,3 @@
+# README (usage notes)
+> For Claude: when a task on the Kanban moves from "Active Tasks NOW" to "Recently Completed," move its detail md file(s) here. When "Recently Completed" in `Kanban.md` exceeds ~5 entries, move the oldest entry's line into `CompletedLog.md` too. Before archiving, make sure anything still relevant to ongoing work (open questions, decisions that affect future lessons) has been folded into the live docs — this folder is for history, not for things still needed day-to-day.
+> For the human: old task notes live here for reference; nothing in here should be needed for current work. `CompletedLog.md` is the full completed-task history.
